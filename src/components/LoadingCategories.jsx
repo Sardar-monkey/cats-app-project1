@@ -16,6 +16,18 @@ function LoadingCategories() {
                 <div class="skeleton-small-text"></div>
                 <div class="skeleton-icon"></div>
             </div>
+            <div class="loading-item">
+                <div class="skeleton-small-text"></div>
+                <div class="skeleton-icon"></div>
+            </div>
+            <div class="loading-item">
+                <div class="skeleton-small-text"></div>
+                <div class="skeleton-icon"></div>
+            </div>
+            <div class="loading-item">
+                <div class="skeleton-small-text"></div>
+                <div class="skeleton-icon"></div>
+            </div>
         </div>
 
     </div>
